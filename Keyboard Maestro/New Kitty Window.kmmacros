@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>662781899.14403605</real>
+		<key>CustomIconData</key>
+		<string>KMEP-GenericApplication-/Applications/kitty.app</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionUID</key>
+						<integer>147587</integer>
+						<key>KeyCode</key>
+						<integer>36</integer>
+						<key>MacroActionType</key>
+						<string>SimulateKeystroke</string>
+						<key>Modifiers</key>
+						<integer>4608</integer>
+						<key>ReleaseAll</key>
+						<false/>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>662781993.53835106</real>
+				<key>ModificationDate</key>
+				<real>662782040.821787</real>
+				<key>Name</key>
+				<string>New Kitty Window</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>36</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>4096</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>38EA9EF6-3F9C-4618-9433-D1AF7DAF20F5</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Application: Kitty</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>net.kovidgoyal.kitty</string>
+					<key>Name</key>
+					<string>kitty</string>
+					<key>NewFile</key>
+					<string>/Applications/kitty.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>2D2D8993-C291-4A30-AB55-458CEF76569E</string>
+		<key>UID</key>
+		<string>F29DD74D-1365-4C9B-839E-CD52919B8C4D</string>
+	</dict>
+</array>
+</plist>
